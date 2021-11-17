@@ -1,6 +1,6 @@
 package br.com.alura.algoritmos;
 
-public class TestaMenorPreco {
+public class BuscaMenor {
     public static void main(String[] args) {
         Produto[] produtos = { 
             new Produto("Lamborghini", 1000000), 
