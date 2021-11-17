@@ -1,7 +1,7 @@
 package br.com.alura.algoritmos;
 
-// selection sort (ordenação por seleção)
-// seleciona o menor a partir da posição atual e o reposiciona na lista
+// insertion sort (ordenação por inserção)
+// encontrando a casinha onde deveríamos inserir um elemento
 
 public class InsertionSort {
     public static void main(String[] args) {

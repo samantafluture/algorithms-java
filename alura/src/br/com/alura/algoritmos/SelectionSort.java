@@ -2,6 +2,7 @@ package br.com.alura.algoritmos;
 
 // selection sort (ordenação por seleção)
 // seleciona o menor a partir da posição atual e o reposiciona na lista
+// selecionando quem deveria ficar em cada casinha
 
 public class SelectionSort {
     public static void main(String[] args) {
