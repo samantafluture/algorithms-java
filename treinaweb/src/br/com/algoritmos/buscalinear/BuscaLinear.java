@@ -1,4 +1,4 @@
-package br.com.algoritmos.busca;
+package br.com.algoritmos.buscalinear;
 
 import java.util.Scanner;
 
